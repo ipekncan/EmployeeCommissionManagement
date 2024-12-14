@@ -8,6 +8,8 @@ The system contains three main classes:
 1. `CommisionEmployee`: Represents an employee whose earnings are based solely on commissions from sales.
 2. `BasePlusCommisionEmployee`: Inherits from `CommisionEmployee` and adds a base salary to the earnings calculation.
 3. `InheritanceTest`: A test class to demonstrate how the `BasePlusCommisionEmployee` class works, including setting and updating the base salary. 
+
+
 **Note**: This program does not require any user input. All employee data (such as first name, last name, social security number, gross sales, commission rate, and base salary) is hardcoded in the `InheritanceTest` class for demonstration purposes.
 ## Features
 
