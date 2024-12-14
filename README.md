@@ -7,8 +7,8 @@ This project implements a simple Employee Commission Management System in Java. 
 The system contains three main classes:
 1. `CommisionEmployee`: Represents an employee whose earnings are based solely on commissions from sales.
 2. `BasePlusCommisionEmployee`: Inherits from `CommisionEmployee` and adds a base salary to the earnings calculation.
-3. `InheritanceTest`: A test class to demonstrate how the `BasePlusCommisionEmployee` class works, including setting and updating the base salary.
-
+3. `InheritanceTest`: A test class to demonstrate how the `BasePlusCommisionEmployee` class works, including setting and updating the base salary. 
+**Note**: This program does not require any user input. All employee data (such as first name, last name, social security number, gross sales, commission rate, and base salary) is hardcoded in the `InheritanceTest` class for demonstration purposes.
 ## Features
 
 - **Commission Calculation**: Employees can earn a percentage of their sales (commission).
@@ -35,6 +35,6 @@ The system contains three main classes:
 - A test class to create an instance of `BasePlusCommisionEmployee`.
 - Prints the employee's information before and after updating the base salary.
 
-## Usage
+
 
 
